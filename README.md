@@ -22,21 +22,12 @@ Passionate about building AI powered applications and automating real world work
 
 ### 🛠️ Languages & Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,C++,html,css,git,github" alt="My Skills"/>
-</p>
-
-<br>
-
-### 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=shanza54&show_icons=true&theme=aura_dark&border_color=2ac776&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanza54&layout=compact&theme=aura_dark&border_color=2ac776" alt="Top Languages" height="165"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,git,github" alt="My Skills"/>
 </p>
 
 <br>
 
 ### 📌 Featured Project
 
-**[Switchboard — AI Persona Console](https://huggingface.co/spaces/shanzaejaz/switchboard)**
+**[Switchboard — AI Persona Console](https://huggingface.co/spaces/shanzaejaz/Chat_Bot)**
 A multi-persona AI chatbot built with Gradio and the Groq API, supporting Llama 3.3 70B, deployed live on Hugging Face Spaces.
